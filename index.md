@@ -9,11 +9,15 @@
 
 ---
 
-<img src="images/image2?raw=true"/>
+<img src="images/image2.jpg?raw=true"/>
 
 ---
 
-<img src="images/image3?raw=true"/>
+<img src="images/image3.jpg?raw=true"/>
+
+---
+
+<img src="images/image4.jpg?raw=true"/>
 
 ---
 
